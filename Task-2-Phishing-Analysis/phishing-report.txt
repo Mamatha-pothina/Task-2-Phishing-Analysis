@@ -1,0 +1,32 @@
+Task 2: Phishing Email Analysis
+
+Objective:
+To analyze a phishing email and identify suspicious elements.
+
+Sample Email:
+From: support@paypa1.com
+Subject: Urgent: Your Account Has Been Suspended!
+
+Dear Customer,
+We noticed suspicious activity in your account. Please verify immediately:
+http://paypal-security-check.com/login
+
+Phishing Indicators Found:
+
+1. Spoofed Email Address:
+The sender email "support@paypa1.com" is fake.
+
+2. Urgent Language:
+Uses words like "urgent" and "immediately" to create panic.
+
+3. Suspicious Link:
+The link is not an official PayPal domain.
+
+4. Generic Greeting:
+Uses "Dear Customer" instead of user's name.
+
+5. Threat Message:
+Mentions account suspension to pressure user.
+
+Conclusion:
+This email is a phishing attempt using social engineering.
